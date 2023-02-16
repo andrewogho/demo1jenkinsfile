@@ -3,7 +3,7 @@
 pipeline{
  tools{
         // mymaven is coming from global tool configuration
-        maven 'mymaven'
+        maven 'AndMaven'
     }
  // ** which server/agent should this pipeline tasks be executed **
  agent any
